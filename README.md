@@ -12,6 +12,7 @@ I'm not exactly a professional, though.
 I am interested in coding, but I am not very good at it.
 I want to learn more.
 I also handle game design.
+
 ---
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
