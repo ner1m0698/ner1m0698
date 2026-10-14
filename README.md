@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=D4D4D4&height=300&section=header&text=안녕하십니까+네림입니다.+Hello+im+NeR1M&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=D4D4D4&height=300&section=header&text=안녕하십니까+네림입니다.+Hello+im+NeR1M&fontSize=40)
 
 <a href="mailto:ne.r1m0698@gmail.com@" target="_blank"><img src="https://img.shields.io/badge/ne.r1m0698@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
