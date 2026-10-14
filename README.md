@@ -1,4 +1,4 @@
-## 똥
+## NeR1M
 
 <!--
 **ner1m0698/ner1m0698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
